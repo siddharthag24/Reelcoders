@@ -1,2 +1,11 @@
 # Reelcoders
-![Flowchart](https://github.com/siddharthag24/Reelcoders/assets/132876160/04521c27-1931-4c37-987e-31579f20249f)
+
+
+
+
+
+
+
+
+
+![frontpage](https://github.com/siddharthag24/Reelcoders/assets/132876160/63e610e7-b81e-43ed-9eeb-5f6c1306749c)
