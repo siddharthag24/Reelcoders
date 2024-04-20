@@ -13,3 +13,17 @@ Platform consists of features to create and upload short videos related to codin
 
 
 ![frontpage](https://github.com/siddharthag24/Reelcoders/assets/132876160/63e610e7-b81e-43ed-9eeb-5f6c1306749c)
+
+
+
+
+
+
+
+
+
+
+
+
+![Flowchart](https://github.com/siddharthag24/Reelcoders/assets/132876160/7d672f64-45f4-4879-8a38-abdf0e9ea528)
+
